@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="330" height="160" alt="brain_logo-B6LLJ4-J" src="https://github.com/user-attachments/assets/e692f026-dfb0-40d0-9462-ef4cfc8c5c4f" />  
+  <img width="280" height="140" alt="brain_logo-B6LLJ4-J" src="https://github.com/user-attachments/assets/e692f026-dfb0-40d0-9462-ef4cfc8c5c4f" />  
 </p>  
 
 ### <p align="center">Available as a Killercoda scenario: click the link below</p>    
