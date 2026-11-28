@@ -3,7 +3,7 @@
 </p>  
 
 ### <p align="center">Available as a Killercoda scenario: click the link below</p>    
-
+#### <p align="center">Most of the files here are just Proof of concept</p>    
 ### <p align="center">https://killercoda.com/dbehelitate/scenario/kserve</p>       
 ---
 
