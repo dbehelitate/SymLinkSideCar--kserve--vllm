@@ -2,9 +2,11 @@
   <img width="280" height="140" alt="brain_logo-B6LLJ4-J" src="https://github.com/user-attachments/assets/e692f026-dfb0-40d0-9462-ef4cfc8c5c4f" />  
 </p>  
 
-### <p align="center">Available as a Killercoda scenario: click the link below</p>    
+### <p align="center">https://killercoda.com/dbehelitate/scenario/kserve</p>    
+### <p align="center">Available as a Killercoda scenario: click the link </p>
+  
 #### <p align="center">Most of the files here are just Proof of concept</p>    
-### <p align="center">https://killercoda.com/dbehelitate/scenario/kserve</p>       
+
 ---
 
 
